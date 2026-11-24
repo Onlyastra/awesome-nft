@@ -501,3 +501,5 @@ One should know that the Proof of Work (PoW) requires an important amount of ene
 
 - [Estimate the total CO2 footprint for popular CryptoArt platforms](https://github.com/kylemcdonald/cryptoart-footprint)
 - [Carbon.fyi by Offsetra](https://carbon.fyi/)
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
